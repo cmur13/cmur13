@@ -53,7 +53,7 @@ This repository highlights the code I've written across a range of university co
 `Scikit-learn` • `Hugging Face Transformers` • `K-Means Clustering` • `PCA` • `Logistic Regression`
 
 **Database & Backend**  
-`MySQL` • `PostgreSQL` • `SQLite` • `Firebase` • `Flask` • `REST APIs`
+`MySQL` • `PostgreSQL` • `SQLite` • `Firebase` • `REST APIs`
 
 **Technologies & Tools**  
 `Git` • `Jupyter Notebooks` • `Android Studio` • `Google Colab` • `UML`
