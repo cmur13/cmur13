@@ -22,7 +22,7 @@ I am a Computer Science graduate at California Polytechnic University, Pomona, w
 
 ## Work Showcase
 
-- [**Music Player App**](#https://github.com/cmur13/MusicPlayerApp)  
+- [**Music Player App**](#)  
   MusicPlayer is a simple Android music player app built using Kotlin. It scans local audio files on the device, displays them in a list, and allows    users to play, pause, and navigate through tracks with a clean and minimal user interface.
 
 - [**CUDA AES Encryption**](#)  
