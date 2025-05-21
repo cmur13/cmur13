@@ -28,8 +28,8 @@ I am a Computer Science graduate at California Polytechnic University, Pomona, w
 - [**Social Media Subsystem**](https://github.com/CS3560-03-08/CS3560_Group_Project)  
   A Java-based group project that simulates a social media platform with key features like user profiles, posts, friendships, and app ratings. The system supports both personal and business accounts, post interactions, friend management, and secure login features—modeled after real-world use cases and built using object-oriented principles. Collaborative effort with version control and task delegation.
 
-- [**WhatMusicDoILike? Music Transfer**](#)  
-  Music recommendation and transfer platform using **Flask**, **React**, **Typescript**, and **AWS**.
+- [**Database & Data Analysis Projects**](https://github.com/cmur13/Database-Data-Analysis-Projects/tree/main)  
+ A collection of hands-on labs and projects from university courses that focus on relational databases and exploratory data analysis.
 
 - [**NAND To Tetris**](#)  
   Built a complete computer system from first principles, starting with basic logic gates and culminating in an OS and high-level programming.
