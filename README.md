@@ -31,5 +31,5 @@ I am a Computer Science graduate at California Polytechnic University, Pomona, w
 - [**Database & Data Analysis Projects**](https://github.com/cmur13/Database-Data-Analysis-Projects/tree/main)  
  A collection of hands-on labs and projects from university courses that focus on relational databases and exploratory data analysis.
 
-- [**NAND To Tetris**](#)  
-  Built a complete computer system from first principles, starting with basic logic gates and culminating in an OS and high-level programming.
+- [**AI-Powered Music Recommendation App (Group Project)**](https://github.com/CS3560-03-08/CS3560_Group_Project))  
+This project aims to develop an AI-powered music recommendation application that delivers personalized music suggestions to users based on their listening history and preferences. The system uses content-based filtering to analyze song features and recommend similar tracks tailored to individual tastes.
