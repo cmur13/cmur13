@@ -33,12 +33,12 @@ This repository highlights the code I've written across a range of university co
 
 - [**Social Media Subsystem**](https://github.com/CS3560-03-08/CS3560_Group_Project)  
   A Java-based group project that simulates a social media platform with key features like user profiles, posts, friendships, and app ratings. The system supports both personal and business accounts, post interactions, friend management, and secure login features—modeled after real-world use cases and built using object-oriented principles. Collaborative effort with version control and task delegation.
-  
-**My Role:**  
-Quality Assurance (QA) — responsible for testing the app’s features, ensuring reliability, and verifying that the recommendation algorithms work as intended.
+ 
 
 - [**AI-Powered Music Recommendation App (Group Project)**](https://github.com/CS3560-03-08/CS3560_Group_Project))  
 This project aims to develop an AI-powered music recommendation application that delivers personalized music suggestions to users based on their listening history and preferences. The system uses content-based filtering to analyze song features and recommend similar tracks tailored to individual tastes.
+**My Role:**  
+Quality Assurance (QA) — responsible for testing the app’s features, ensuring reliability, and verifying that the recommendation algorithms work as intended.
 
 ## 🛠️ Skills
 
