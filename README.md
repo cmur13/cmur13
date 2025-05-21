@@ -25,7 +25,7 @@ I am a Computer Science graduate at California Polytechnic University, Pomona, w
 - [**Database & Data Analysis Projects**](https://github.com/cmur13/Database-Data-Analysis-Projects/tree/main)  
  A collection of hands-on labs and projects from university courses that focus on relational databases and exploratory data analysis.
 
-- [**My University Computer Science Work**] (https://github.com/cmur13/UniversityCourseWork)
+- [**My University Computer Science Work**](https://github.com/cmur13/UniversityCourseWork)
 This repository highlights the code I've written across a range of university courses, including Artificial Intelligence, Programming Language Concepts, Data Structures, Mobile Application Development, and Database Systems.
 
 - [**Music Player App**](https://github.com/cmur13/MusicPlayerApp)  
