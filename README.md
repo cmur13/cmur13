@@ -33,6 +33,7 @@ This repository highlights the code I've written across a range of university co
 
 - [**Social Media Subsystem**](https://github.com/CS3560-03-08/CS3560_Group_Project)  
   A Java-based group project that simulates a social media platform with key features like user profiles, posts, friendships, and app ratings. The system supports both personal and business accounts, post interactions, friend management, and secure login features—modeled after real-world use cases and built using object-oriented principles. Collaborative effort with version control and task delegation.
+  
 **My Role:**  
 Quality Assurance (QA) — responsible for testing the app’s features, ensuring reliability, and verifying that the recommendation algorithms work as intended.
 
@@ -42,7 +43,7 @@ This project aims to develop an AI-powered music recommendation application that
 ## 🛠️ Skills
 
 **Languages & Libraries**  
-`Python` • `Java` • `JavaScript` • `Kotlin` • `SQL` • `HTML/CSS` • 'Bash'
+`Python` • `Java` • `JavaScript` • `Kotlin` • `SQL` • `HTML/CSS` • `Bash`
 
 **Data Analysis & Visualization**  
 `Pandas` • `NumPy` • `Seaborn` • `Matplotlib` • `Tableau`
