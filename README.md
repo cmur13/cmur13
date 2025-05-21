@@ -37,3 +37,21 @@ This repository highlights the code I've written across a range of university co
 
 - [**AI-Powered Music Recommendation App (Group Project)**](https://github.com/CS3560-03-08/CS3560_Group_Project))  
 This project aims to develop an AI-powered music recommendation application that delivers personalized music suggestions to users based on their listening history and preferences. The system uses content-based filtering to analyze song features and recommend similar tracks tailored to individual tastes.
+
+## 🛠️ Skills
+
+**Languages & Libraries**  
+`Python` • `Java` • `JavaScript` • `Kotlin` • `SQL` • `HTML/CSS` • 'Bash'
+
+**Data Analysis & Visualization**  
+`Pandas` • `NumPy` • `Seaborn` • `Matplotlib` • `Tableau`
+
+**Machine Learning & AI**  
+`Scikit-learn` • `Hugging Face Transformers` • `K-Means Clustering` • `PCA` • `Logistic Regression`
+
+**Database & Backend**  
+`MySQL` • `PostgreSQL` • `SQLite` • `Firebase` • `Flask` • `REST APIs`
+
+**Technologies & Tools**  
+`Git` • `Jupyter Notebooks` • `Android Studio` • `Google Colab` • `UML`
+
