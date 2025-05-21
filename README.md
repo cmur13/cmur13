@@ -33,7 +33,7 @@ This repository highlights the code I've written across a range of university co
   **My Role:** Quality Assurance (QA) — responsible for testing the app’s features, ensuring reliability, and verifying that the recommendation algorithms work as intended.
 
 
-- [**Social Media Subsystem**](https://github.com/cmur13/Social-media-subsystems))  
+- [**Social Media Subsystem**](https://github.com/cmur13/Social-media-subsystems)
   A Java-based group project that simulates a social media platform with key features like user profiles, posts, friendships, and app ratings. The system supports both personal and business accounts, post interactions, friend management, and secure login features—modeled after real-world use cases and built using object-oriented principles. Collaborative effort with version control and task delegation.
 
 - [**Music Player App**](https://github.com/cmur13/MusicPlayerApp)  
