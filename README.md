@@ -63,7 +63,7 @@ This repository highlights the code I've written across a range of university co
 Feel free to reach out or connect with me through the platforms below!
 
 - 📧 **Email:** [cmur131@gmail.com](mailto:cmur131@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/clarissa-murillo-b2aa3226b/)
+- 💼 **LinkedIn:** [Clarissa Murillo](https://www.linkedin.com/in/clarissa-murillo-b2aa3226b/)
 
 
 
